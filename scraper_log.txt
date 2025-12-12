@@ -1,0 +1,21 @@
+2025-12-11 18:27:07,205 - INFO - Scraper Started
+2025-12-11 18:27:10,960 - INFO - Fetched: https://quotes.toscrape.com/
+2025-12-11 18:27:14,439 - INFO - Fetched: https://quotes.toscrape.com/page/2/
+2025-12-11 18:27:18,227 - INFO - Fetched: https://quotes.toscrape.com/page/3/
+2025-12-11 18:27:21,606 - INFO - Fetched: https://quotes.toscrape.com/page/4/
+2025-12-11 18:28:26,573 - INFO - Scraper Started
+2025-12-11 18:28:28,747 - INFO - Fetched: https://quotes.toscrape.com/
+2025-12-11 18:28:32,262 - INFO - Fetched: https://quotes.toscrape.com/page/2/
+2025-12-11 18:28:35,664 - INFO - Fetched: https://quotes.toscrape.com/page/3/
+2025-12-11 18:28:39,640 - INFO - Fetched: https://quotes.toscrape.com/page/4/
+2025-12-11 18:29:00,422 - INFO - Fetched: https://quotes.toscrape.com/page/5/
+2025-12-11 18:29:04,144 - INFO - Fetched: https://quotes.toscrape.com/page/6/
+2025-12-11 18:29:07,897 - INFO - Fetched: https://quotes.toscrape.com/page/7/
+2025-12-11 18:29:11,584 - INFO - Fetched: https://quotes.toscrape.com/page/8/
+2025-12-11 18:29:15,452 - INFO - Fetched: https://quotes.toscrape.com/page/9/
+2025-12-11 18:29:24,538 - INFO - Fetched: https://quotes.toscrape.com/page/10/
+2025-12-11 18:29:25,588 - INFO - CSV saved successfully
+2025-12-11 18:29:25,589 - INFO - Scraper Finished
+2025-12-11 19:16:38,662 - INFO - Scraper Started
+2025-12-11 19:16:41,346 - INFO - Fetched: https://quotes.toscrape.com/
+2025-12-11 19:16:45,460 - INFO - Fetched: https://quotes.toscrape.com/page/2/
